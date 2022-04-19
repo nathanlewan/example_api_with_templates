@@ -1,0 +1,4 @@
+node_modules/
+\conf/.env
+\conf/api_spec.json
+\conf/ssl
